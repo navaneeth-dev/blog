@@ -20,3 +20,8 @@ Gemfile.lock
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+node_modules
+.joplin-cache.json
+.jekyll-cache
+.jekyll-metadata

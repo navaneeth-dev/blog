@@ -1,0 +1,23 @@
+{
+  "name": "minima",
+  "version": "1.0.0",
+  "description": "*Minima is a one-size-fits-all Jekyll theme for writers*. It's Jekyll's default (and first) theme. It's what you get when you run `jekyll new`.",
+  "main": "index.js",
+  "scripts": {
+    "gen": "joplin-blog blog"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/r1zex0r/minima.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/r1zex0r/minima/issues"
+  },
+  "homepage": "https://gitlab.com/r1zex0r/minima#readme",
+  "devDependencies": {
+    "joplin-blog": "^0.7.0"
+  }
+}
