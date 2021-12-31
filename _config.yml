@@ -3,7 +3,7 @@ author:
   name: r1zex0r
   email: r1zex0r@hackerone.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  CTFs | Writeups
+  CTFs, Writeups
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
