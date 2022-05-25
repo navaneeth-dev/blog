@@ -243,6 +243,9 @@
  */
 .post-header {
   margin-bottom: $spacing-unit;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .post-title,
@@ -278,6 +281,12 @@
 
     @media screen and (min-width: $on-large) {
       @include relative-font-size(2);
+    }
+
+    &::after {
+      content: "";
+      display: block;
+      border-bottom: 1px solid grey;
     }
   }
 
