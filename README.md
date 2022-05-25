@@ -14,3 +14,9 @@
 - Clone
 - `bundle install`
 - `bundle exec jekyll serve`
+
+## Generate blogs
+
+- Delete all in layouts
+- `npm run clean`
+- `npm run gen`
