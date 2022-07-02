@@ -8,12 +8,14 @@
 - jekyll
 - [https://github.com/rxliuli/joplin-utils](Joplin Blog Explorter)
 - Joplin outline plugin
+- NodeJS
 
 ## Getting started
 
 - Clone
 - `bundle install`
 - `bundle exec jekyll serve`
+- `npm i -D`
 
 ## Generate blogs
 
