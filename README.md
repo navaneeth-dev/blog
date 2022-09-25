@@ -6,7 +6,7 @@
 - RubyInstaller+Devkit
 - bundler
 - jekyll
-- [https://github.com/rxliuli/joplin-utils](Joplin Blog Explorter)
+- [Joplin Blog Explorter](https://github.com/rxliuli/joplin-utils)
 - Joplin outline plugin
 - NodeJS
 
