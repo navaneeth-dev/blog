@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "5ef8a022d963f8a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6eb420d73e944bd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2022-09-26-how-to-attend-a-conference.md",
+            "mode": "source",
+            "source": true
+          }
+        },
+        "group": "a89f5b0df9a295dc"
+      },
+      {
+        "id": "bccb38d413d83676",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2022-09-26-how-to-attend-a-conference.md",
+            "mode": "preview",
+            "source": true
+          }
+        },
+        "group": "a89f5b0df9a295dc"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a2ba1af360b6da5",
+    "type": "split",
+    "children": [
+      {
+        "id": "9625f71fdbea2f8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d54dd9f6c4d5ed1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ef87078136674252",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2ae55a45a1258e6c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "177733a6b20497bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e58545c0f58be34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f558a1fc00ae62a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_posts/2022-09-26-how-to-attend-a-conference.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c761552fb6966c48",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_posts/2022-09-26-how-to-attend-a-conference.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb8a29b7c9ab670b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "78f5a60081929390",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_posts/2022-09-26-how-to-attend-a-conference.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4d54dd9f6c4d5ed1",
+  "lastOpenFiles": [
+    "_posts/joplin/2022-07-02-wsa-burp-setup.md",
+    "_posts/2022-09-26-how-to-attend-a-conference.md",
+    "_posts/2022-.md"
+  ]
+}
