@@ -21,6 +21,11 @@ layout: default
         </a>
       </h3>
       {%- if site.show_excerpts -%} {{ post.excerpt }} {%- endif -%}
+      <div class="post-tag-container">
+        {% for tag in post.tags %}
+        <small class="post-tag">{{ tag }}</small>
+        {% endfor %}
+      </div>
     </li>
     {%- endfor -%}
   </ul>
