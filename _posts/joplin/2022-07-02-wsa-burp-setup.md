@@ -3,6 +3,7 @@ layout: post
 title: Intercept HTTPS traffic with Burp and Windows Subsystem For Android
 tags: []
 date: 2022-07-02 12:21:49
+image: /resource/phone.jpg
 ---
 
 In this blog we will take a look at how to get windows subsystem for android to work with burp suite for bug bounties, etc. Earlier there was only one option which was to use Android Studio emulator with arm64 image. This method is faster, less system intensive and most apps just work.
