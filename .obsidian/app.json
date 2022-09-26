@@ -2,7 +2,7 @@
   "readableLineLength": false,
   "showFrontmatter": true,
   "livePreview": false,
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "useMarkdownLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "_posts",
