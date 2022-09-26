@@ -224,7 +224,10 @@
 
   > li {
     margin-bottom: $spacing-unit;
-    border-bottom: 1px solid $brand-color;
+    box-shadow: #000 10px 10px;
+    background-color: #222;
+    padding: 5px;
+    // border-bottom: 1px solid $brand-color;
   }
 }
 
