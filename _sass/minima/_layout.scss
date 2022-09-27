@@ -224,9 +224,9 @@
 
   > li {
     margin-bottom: $spacing-unit;
-    box-shadow: #000 10px 10px;
-    background-color: #222;
-    padding: 5px 10px;
+    // box-shadow: #000 10px 10px;
+    // background-color: #222;
+    // padding: 5px 0px;
     // border-bottom: 1px solid $brand-color;
   }
 }
@@ -248,7 +248,8 @@
   margin-bottom: $spacing-unit;
 }
 
-.post-title,.post-meta {
+.post-title,
+.post-meta {
   text-align: center;
 }
 
