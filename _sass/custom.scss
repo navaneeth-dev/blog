@@ -25,3 +25,28 @@
 .post-image {
   max-height: 400px;
 }
+
+.post-list > li {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+.post-image {
+  display: flex;
+  justify-content: center;
+}
+
+.post-cover-image-container > img {
+  object-fit: cover;
+}
+
+// desktop
+@media (min-width: 600px) {
+  .post-list > li {
+    flex-direction: row;
+  }
+  .post-cover-image-container {
+    width: 200px;
+  }
+}

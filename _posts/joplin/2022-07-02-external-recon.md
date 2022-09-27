@@ -3,6 +3,7 @@ layout: post
 title: External Recon
 tags: []
 date: 2022-05-24 10:03:04
+image: /resource/spy.jpg
 ---
 
 Red Team External Recon Methods
