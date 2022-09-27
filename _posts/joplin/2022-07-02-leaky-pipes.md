@@ -3,6 +3,7 @@ layout: post
 title: "InCTFJ Quals: Leaky Pipes"
 tags: []
 date: 2021-12-30 06:13:34
+image: /assets/pipes.jpg
 ---
 
 Leaky pipes - InCTFJ solution. PS: Ignore this shitty post, this is for testing the blog. So I just made this in a hurry.
