@@ -7,12 +7,8 @@
         "id": "d6eb420d73e944bd",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_posts/joplin/2022-07-02-8087dfab73bb4958ae315773d7a83aed.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "a89f5b0df9a295dc"
       },
@@ -20,12 +16,8 @@
         "id": "bccb38d413d83676",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_posts/joplin/2022-07-02-8087dfab73bb4958ae315773d7a83aed.md",
-            "mode": "preview",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "a89f5b0df9a295dc"
       }
@@ -91,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/joplin/2022-07-02-8087dfab73bb4958ae315773d7a83aed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/joplin/2022-07-02-8087dfab73bb4958ae315773d7a83aed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_posts/joplin/2022-07-02-8087dfab73bb4958ae315773d7a83aed.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -144,11 +132,11 @@
   },
   "active": "4d54dd9f6c4d5ed1",
   "lastOpenFiles": [
+    "_posts/joplin/2022-07-02-8087dfab73bb4958ae315773d7a83aed.md",
     "_posts/joplin/2022-07-02-leaky-pipes.md",
     "_drafts/2022-09-26-conference-dos-and-donts.md",
     "index.md",
     "screenshot.png",
-    "_posts/joplin/2022-07-02-8087dfab73bb4958ae315773d7a83aed.md",
     "_posts/joplin/2022-07-02-wsa-burp-setup.md",
     "_posts/2022-.md"
   ]
