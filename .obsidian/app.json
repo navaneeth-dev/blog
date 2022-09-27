@@ -5,6 +5,6 @@
   "defaultViewMode": "source",
   "useMarkdownLinks": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "_posts",
+  "newFileFolderPath": "_drafts",
   "attachmentFolderPath": "resource"
 }

@@ -4,22 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "d6eb420d73e944bd",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        },
-        "group": "a89f5b0df9a295dc"
-      },
-      {
         "id": "bccb38d413d83676",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2022-09-27-cyber-security-blogs-you-should-follow.md",
+            "mode": "source",
+            "source": true
+          }
         },
-        "group": "a89f5b0df9a295dc"
+        "group": "1b6dd4d332e97a51"
+      },
+      {
+        "id": "0b4f39dfb68a3b74",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_posts/2022-09-27-cyber-security-blogs-you-should-follow.md",
+            "mode": "preview",
+            "source": true
+          }
+        },
+        "group": "1b6dd4d332e97a51"
       }
     ],
     "direction": "vertical"
@@ -83,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2022-09-27-cyber-security-blogs-you-should-follow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2022-09-27-cyber-security-blogs-you-should-follow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2022-09-27-cyber-security-blogs-you-should-follow.md"
+              }
             }
           }
         ]
@@ -133,8 +145,11 @@
   "active": "4d54dd9f6c4d5ed1",
   "lastOpenFiles": [
     "_posts/joplin/2022-07-02-8087dfab73bb4958ae315773d7a83aed.md",
-    "_posts/joplin/2022-07-02-leaky-pipes.md",
+    "_posts/2022-09-27-cyber-security-blogs-you-should-follow.md",
+    "assets/Pasted image 20220927201331.png",
+    "_drafts/Untitled.md",
     "_drafts/2022-09-26-conference-dos-and-donts.md",
+    "_posts/joplin/2022-07-02-leaky-pipes.md",
     "index.md",
     "screenshot.png",
     "_posts/joplin/2022-07-02-wsa-burp-setup.md",
