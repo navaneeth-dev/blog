@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Android Malware/Reversing Resources
+image: /assets/android-malware.jpg
 ---
 
 Some android malware/reversing resources. Can be useful for learning android game hacking etc.

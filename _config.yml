@@ -11,7 +11,7 @@ future: true
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-  skin: rize
+  skin: classic.scss
   date_format: "%e %B %Y"
 
   # generate social links in footer
