@@ -23,3 +23,14 @@ This post will list some cyber security blogs you should follow to keep up to da
 
 - [https://muha2xmad.github.io/](https://muha2xmad.github.io/)
 - [Android Malware Telegram (VERY USEFUL)](https://t.me/androidMalware)
+
+## Underground Forums
+
+| Link                 | Purpose         |
+| -------------------- | --------------- |
+| https://breached.to/ | Software Cracks |
+| CryptBB              |                 |
+| RAMP                 |                 |
+| exploit.in           |                 |
+| xss.in               |                 |
+| nulled.to            |                 |
