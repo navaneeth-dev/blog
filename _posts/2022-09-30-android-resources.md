@@ -2,6 +2,7 @@
 layout: post
 title: Android Malware/Reversing Resources
 image: /assets/android-malware.jpg
+tags: android resources
 ---
 
 Some android malware/reversing resources. Can be useful for learning android game hacking etc.
@@ -12,8 +13,8 @@ Emulators allow you to run android apps. Some **might not have ARM support**.
 
 - Android Emulator (Android 11 - Tested with ARM apps and google play works properly)
 - Bluestacks (Untested)
-- Windows subsystem for android (ARM seems to work)
-- Genymotion (Untested ARM translation)
+- Windows subsystem for android (ARM seems to work, but hard to setup frida)
+- Genymotion (Good but google play wont work perfectly)
 
 ## APK downloaders
 
