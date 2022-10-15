@@ -26,11 +26,13 @@ This post will list some cyber security blogs you should follow to keep up to da
 
 ## Underground Forums
 
-| Link                 | Purpose                                                                          |
-| -------------------- | -------------------------------------------------------------------------------- |
-| https://breached.to/ | Software Cracks                                                                  |
-| CryptBB              | http://cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion/member.php                                                                                 |
-| RAMP                 |                                                                                  |
-| exploit.in           |                                                                                  |
-| xss.in               |                                                                                  |
-| nulled.to            |                                                                                  |
+| Link                 | Purpose                                                                          |                                                                        |     |
+| -------------------- | -------------------------------------------------------------------------------- | ---------------------------------------------------------------------- | --- |
+| https://breached.to/ | Software Cracks                                                                  |                                                                        |     |
+| CryptBB              | http://cryptbbtg65gibadeeo2awe3j7s6evg7eklserehqr4w4e2bis5tebid.onion/member.php |                                                                        |     |
+| RAMP                 |                                                                                  |                                                                        |     |
+| exploit.in           |                                                                                  |                                                                        |     |
+| xss.in               |                                                                                  |                                                                        |     |
+| nulled.to            |                                                                                  |                                                                        |     |
+| BidenCash            | Carding                                                                          | http://biden3veilozweo2xubiusixn4kbfbbih23s6xsd35bzsuaz2weiz4yd.onion/ |     |
+| ASCarding            | Carding                                                                          | https://ascarding.com/                                                 |     | 
