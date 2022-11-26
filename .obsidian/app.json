@@ -6,5 +6,6 @@
   "useMarkdownLinks": true,
   "newFileLocation": "folder",
   "newFileFolderPath": "_drafts",
-  "attachmentFolderPath": "resource"
+  "attachmentFolderPath": "resource",
+  "showInlineTitle": false
 }
