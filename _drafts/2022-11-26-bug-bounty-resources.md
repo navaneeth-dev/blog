@@ -11,3 +11,5 @@ This post contains resources for bug bounty.
 
 [Blind SQLI](https://youtu.be/uN8Tv1exPMk)
 [Blind SQLI Manual + sqlmap](https://youtu.be/TjRK3aVEC60)
+
+t_payment_details
