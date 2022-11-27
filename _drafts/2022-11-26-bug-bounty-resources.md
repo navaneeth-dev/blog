@@ -18,3 +18,8 @@ account take over
 sqlmap
 LFI
 SQLI
+
+## Tables
+
+`t_tc_cardtransaction` -> Card transaction table
+`t_tc_registration` -> User table
