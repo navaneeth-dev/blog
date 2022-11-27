@@ -13,3 +13,8 @@ This post contains resources for bug bounty.
 [Blind SQLI Manual + sqlmap](https://youtu.be/TjRK3aVEC60)
 
 t_payment_details
+
+account take over
+sqlmap
+LFI
+SQLI
