@@ -6,6 +6,7 @@
       {
         "id": "1843a9791f0502f7",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "c70227df29775474",
@@ -25,6 +26,7 @@
       {
         "id": "c7ff0bd56a991f5c",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "468c66e7a2c5e507",
@@ -157,7 +159,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c70227df29775474",
+  "active": "468c66e7a2c5e507",
   "lastOpenFiles": [
     "_drafts/2022-10-07-windows-persistence-techniques.md",
     "_drafts/2022-11-26-bug-bounty-resources.md",

