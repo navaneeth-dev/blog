@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022-09-30-android-resources.md",
+                "file": "_posts/joplin/2022-07-02-external-recon.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2022-09-30-android-resources.md",
+                "file": "_posts/joplin/2022-07-02-external-recon.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-09-30-android-resources.md",
+                "file": "_posts/joplin/2022-07-02-external-recon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2022-09-30-android-resources.md",
+                "file": "_posts/joplin/2022-07-02-external-recon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2022-09-30-android-resources.md"
+                "file": "_posts/joplin/2022-07-02-external-recon.md"
               }
             }
           }
@@ -160,12 +160,12 @@
   },
   "active": "4d54dd9f6c4d5ed1",
   "lastOpenFiles": [
+    "_posts/2022-09-30-android-resources.md",
     "_drafts/2022-11-26-bug-bounty-resources.md",
     "_drafts/2022-10-07-windows-persistence-techniques.md",
     "_drafts/Untitled.md",
     "_posts/joplin/2022-07-02-external-recon.md",
     "_posts/2022-09-27-cyber-security-blogs-you-should-follow.md",
-    "_posts/2022-09-30-android-resources.md",
     "2022-09-30.md",
     "resource/2022-09-28 2022-09-28 19.15.33.excalidraw.md",
     "_drafts/2022-09-28.md",
